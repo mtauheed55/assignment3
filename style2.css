@@ -1,0 +1,200 @@
+/* middle-image style */
+.middle-image {
+    
+    height:350px ;
+    width: 100%;
+}
+/* introduction part style */
+
+.intro-main {
+    
+    height:450px ;
+    width: 100%;
+    text-align: center;
+}
+
+ .s1  {
+ color: rgb(136, 60, 6);
+    text-align: center;
+    text-transform: uppercase;
+}
+ .s2 {
+color: crimson;
+    text-align: center;
+    text-transform: uppercase;
+}
+.para {
+
+width: 60%;
+height: 100%;
+text-align: center;
+margin: 0px auto 100px auto;
+text-align: justify;
+}
+/* counter style */
+.counter-main{
+    width: 100%;
+    height: 210px;
+    text-align: center;
+}
+/* currrent project style */
+.c-projects-main{
+    height:450px ;
+    width: 100%;
+}
+.s111{
+    text-align: center;
+}
+  .s11  {
+    color: rgb(241, 7, 46);
+       text-transform: uppercase;}
+   .s12 {
+   color: rgb(11, 148, 84);
+       text-transform: uppercase;}
+table.one {
+        border-spacing: 100px 15px;
+    margin: 20px auto 20px auto;
+    }
+
+    .one11 , .one12 , .one13 ,.one21 ,.one22 ,.one23 {
+        background-color: #f7f8f8;
+        column-width: 250px;
+        padding: 15px;
+        border: 1px transparent ;
+    border-radius: 5px;
+    text-align: center;
+    }
+
+    /* current projects and coming events style */
+    
+    .projects{
+        width: 100%;
+    }
+    .coming-events{
+        float: right;
+        top: 0px;
+        right: 30px;
+        margin: 5px;
+        padding: 5px;
+        width: 30%;
+        border: 3px solid silver ;
+    }
+    .current-projects{
+
+        width: 70%;
+    }
+
+    /* .table-one  {
+empty-cells: hide ;
+border-spacing: 100px 15px;
+margin: 20px auto 20px auto;
+} */
+/* table one */
+    
+    .row1 {
+        background-color:transparent;
+        font-weight: bolder;
+        font-size: 20x;
+        width: 300px;
+    text-align: center;}
+
+
+    /* table two */
+    
+    .table-two {
+ 
+        empty-cells: hide ;
+        border-spacing: 30px 15px;
+            /* margin: 5px 6px 10px 6px; */
+        }
+    .row2 {
+        background-color:transparent;
+        font-weight: bolder;
+        font-size: 20x;
+        width: 800px;
+        padding: 5px;
+        border: 2px solid black ;
+    border-radius: 5px;
+    /* empty-cells: hide ; */
+    text-align: center;}
+    
+    .two11 , .two12 {
+        background-color: #0becec;
+        column-width: 350px;
+        padding: 10px;
+        border: 1px transparent ;
+    border-radius: 5px;
+    text-align: center;
+    }
+    .two21 ,.two22 {
+        background-color: rgb(245, 181, 181);
+        column-width: 350px;
+        padding: 10px;
+        border: 1px transparent ;
+    border-radius: 5px;
+    text-align: center;
+    }
+    /* image gallery style */
+
+    .image-gallery{
+        text-align: center;
+        /* margin-bottom: -100px; */
+        font-weight: bolder;
+        font-size: 26px;
+        border-bottom: 1px solid black;
+        border-inline-start-width: 10px;
+    }
+    
+     
+    .i1  {
+        color: rgb(3, 94, 30);
+           text-align: center;
+           text-transform: uppercase;
+       }
+        .i2 {
+       color: rgb(4, 13, 139);
+           text-align: center;
+           text-transform: uppercase;
+       }
+       .gallery {
+        margin: 50px;
+        border: 3px solid rgb(146, 25, 4);
+        float: left;
+        width: 200px;
+        background-color: blanchedalmond;
+        
+    }
+      
+      .gallery:hover {
+        border: 4px solid #777;
+      }
+      
+      .gallery img {
+        width: 100%;
+        height: auto;
+      }
+      
+       /* footer style */
+
+       .footer {
+        width: 100%;
+        height: 200px;
+        margin: 0px;
+        padding: 40px;
+        float: left;
+        background-color: rgb(110, 109, 109);   
+      }
+      .f-list{
+          color: white;
+          margin: 0px;
+      }
+      .f-bottom{
+          float: right ;
+          list-style: none;
+          margin-right: 50px;
+          right: 50px ;
+      }
+ul .f-bottom1{
+    margin: 40px;
+    color: white;
+}
