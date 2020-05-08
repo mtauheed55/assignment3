@@ -8,7 +8,7 @@
 
 .intro-main {
     
-    max-height:1330px ;
+    height:450px ;
     width: 100%;
     text-align: center;
 }
@@ -32,9 +32,9 @@ margin: 0px auto 100px auto;
 text-align: justify;
 }
 /* counter style */
-.counter-main img{
-    max-width: 100%;
-    max-height: 1010px;
+.counter-main{
+    width: 100%;
+    height: 210px;
     text-align: center;
 }
 /* currrent project style */
@@ -91,7 +91,7 @@ margin: 20px auto 20px auto;
 } */
 /* table one */
     
-    .row12 {
+    .row1 {
         background-color:transparent;
         font-weight: bolder;
         font-size: 20x;

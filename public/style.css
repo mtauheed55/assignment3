@@ -9,38 +9,16 @@ body{
   width: 100%;
   margin: 0px;
   padding: 0px;
-    background-color: rgb(117, 117, 196);
-    text-align: center;
-    color: cornsilk;
+    background-color: rgb(101, 101, 170);
 }
-.col-md1 ul{
-  float: right !important;
-  right: 0px;
-  z-index: 1000;
-
-}
-.col-md2 ul{
-  float: left !important;
-  left:  0px;
-  z-index: 1000;
-
-}
-ul {
-  max-height: 300px;
+ul{
+  height: 30px;
 list-style: none;
-margin: 0px auto 0px 0px;
-}
-ul li{
-  font-size: 12px;
-  text-align: justify;
-
-}
-.row{
-  margin-right: 20px;
+margin: 0px auto 0px 100px;
 }
 ul .list-style {
     display: inline;
-    /* padding: 0.5em; */
+    padding: 0.5em;
     margin-left: 10px;
 }
 .header-logo{
